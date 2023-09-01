@@ -12,5 +12,9 @@ It's a fancy txt file but sure.
 3. Now you have your very own copy of this readme.md file, congratulations!
 4. rd -rm test_repo
 
+5. have fun =) 
+6 Or dont =(
+
 ## License ##
 it's a .md file, do whatever you want with it
+
